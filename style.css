@@ -141,5 +141,16 @@ h6{
 footer{
     text-align: center;
 }
-
+.subscription{
+    margin: 0px;
+    left padding: 0%;
+    background-color: red;
+    width: 100px;
+    height: 25px;
+}
+#email-color{
+    background-color: azure;
+    width: 150px;
+    height: 20px;
+}
 
