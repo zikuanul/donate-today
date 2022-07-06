@@ -42,12 +42,13 @@ section{
 .amount{
     font-size: 50px;
     color: black;
-    margin: 10px;
-    padding: 10px;
+    margin: 7px;
+    padding: 0px;
     box-shadow: 10px 10px 40px gray;
 }
 .color{
     border: 12px solid rgb(252, 165, 165);
+    background-color: whit;
 }
 .alternative{
     font-size: 40px;
